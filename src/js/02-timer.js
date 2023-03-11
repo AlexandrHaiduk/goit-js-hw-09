@@ -3,16 +3,16 @@ import "flatpickr/dist/flatpickr.min.css";
 import Notiflix from 'notiflix';
 
 const datePicker = document.querySelector('input#datetime-picker')
-
 const startBtn = document.querySelector('button[data-start]')
-
+const dayEl = document.querySelector('span[data-days]')
+const hoursEl = document.querySelector('span[data-hours]')
+const minutesEl = document.querySelector('span[data-minutes]')
+const secondsEl = document.querySelector('span[data-seconds]')
 const currentDate = new Date()
+let selectedDate = null
 
 startBtn.disabled = true
 
-// document.body.addEventListener("click", () => {
-//     Notiflix.Notify.failure('Please choose a date in the future')
-// })
 
 const options = {
     enableTime: true,
@@ -23,17 +23,60 @@ const options = {
 
         if(selectedDates[0] < currentDate) {
             Notiflix.Notify.failure('Please choose a date in the future')
+        } else {
+            selectedDate = selectedDates[0]
+            startBtn.disabled = false
         }
-      console.log(selectedDates[0]);
-      console.log(`currentDate: ${currentDate}` );
-      console.log(selectedDates[0] > currentDate);
-
-
     },
   };
 
+    startBtn.addEventListener("click", () => {
+        startBtn.disabled = true
+        datePicker.disabled = true
+    
+    // let distance = null        
 
+        const counter = setInterval(() => {
+        
+            let distance = selectedDate.getTime()  - new Date().getTime()
 
+            if(distance >= 0) {
 
+                let time = convertMs(distance)
+
+                dayEl.textContent = addLeadingZero(time.days)
+                hoursEl.textContent = addLeadingZero(time.hours)
+                minutesEl.textContent = addLeadingZero(time.minutes)
+                secondsEl.textContent = addLeadingZero(time.seconds)
+
+        } else {
+            clearInterval(counter)
+        }
+ 
+    }, 1000)
+  })
+
+  function convertMs(ms) {
+    // Number of milliseconds per unit of time
+    const second = 1000;
+    const minute = second * 60;
+    const hour = minute * 60;
+    const day = hour * 24;
+  
+    // Remaining days
+    const days = Math.floor(ms / day);
+    // Remaining hours
+    const hours = Math.floor((ms % day) / hour);
+    // Remaining minutes
+    const minutes = Math.floor(((ms % day) % hour) / minute);
+    // Remaining seconds
+    const seconds = Math.floor((((ms % day) % hour) % minute) / second);
+  
+    return { days, hours, minutes, seconds };
+  }
+  
+function addLeadingZero(value) {
+    return value.toString().padStart(2, 0)
+}
 
 flatpickr(datePicker, options);
