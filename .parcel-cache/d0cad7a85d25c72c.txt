@@ -13,13 +13,13 @@
 132C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-fallback133225977782936907 1
 60C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\src\images133225975616069511 1
 91C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\@jridgewell\resolve-uri\dist133225977778170837 1
-54C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist133230023728121280 1
+54C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist133235182441092928 1
 86C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\fastq\.github\workflows133225977778838750 1
 72C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\@mischnic133225977765202069 1
 102C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\css-tree\lib\definition-syntax\parse.js133225977783036628 0
 92C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\terser\lib\compress\common.js133225977779822865 0
 107C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\utility-types\dist\aliases-and-guards.js.map133225977778021231 0
-71C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\src\js\03-promises.js133230023726890570 0
+71C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\src\js\03-promises.js133235183252613434 0
 87C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\react-refresh\runtime.js133225977778011270 0
 82C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\yaml\browser\map.js133225977778798854 0
 112C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\utils\test\input\sourcemap\source-root.js133225977781896431 0
@@ -67,7 +67,7 @@
 72C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\callsites133225977776999404 1
 99C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\config-default\test\.babelrc133225977775836849 0
 97C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\utils\src\openInBrowser.js133225977781225123 0
-68C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\src\js\02-timer.js133230019340871356 0
+68C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\src\js\02-timer.js133235170049439050 0
 108C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\caniuse-lite\data\features\mutation-events.js133225977788418395 0
 62C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules133226691215968857 1
 119C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\invalid-target-source-missing133225977784649732 1
@@ -275,7 +275,7 @@
 95C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\entities\lib\decode_codepoint.js133225977776247529 0
 93C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\nth-check\lib\esm\parse.js.map133225977779510434 0
 90C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\flatpickr\dist\l10n\ar.d.ts133226681679737161 0
-78C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist\03-promises.cd58c9ff.js133230023728081198 0
+78C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist\03-promises.cd58c9ff.js133235182441043055 0
 99C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\css-tree\lib\syntax\node\Function.js133225977781574181 0
 74C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\@jridgewell133225977765455169 1
 69C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\@lezer133225977765435215 1
@@ -946,7 +946,7 @@
 85C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\term-size\vendor\macos133225977776999404 1
 101C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\yaml\browser\dist\warnings-df54cb69.js133225977781584153 0
 89C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\notiflix\src\notiflix.d.ts133226691215918975 0
-89C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css.map133228266576851720 0
+89C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css.map133235179962544757 0
 106C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\core\lib\requests\PackageRequest.js133225977782797255 0
 90C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\fast-glob\out\settings.d.ts133225977781464474 0
 78C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\xxhash-wasm\cjs133225977777532564 1
@@ -2134,7 +2134,7 @@
 100C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\@jridgewell\sourcemap-codec\README.md133225977777801827 0
 112C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\source-map\parcel_sourcemap_node\build.rs133225977782329052 0
 83C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\nan\nan_converters.h133225977777712060 0
-77C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist\01-color-switcher.html133228266577212017 0
+77C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist\01-color-switcher.html133235179962937774 0
 86C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\hash\browser.js133225977776636465 0
 90C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\nan\nan_converters_43_inl.h133225977776999404 0
 84C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\nan\nan_object_wrap.h133225977779048185 0
@@ -2365,7 +2365,7 @@
 103C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\lmdb\dependencies\lz4\lib\dll\liblz4.def133225977782946867 0
 118C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.sln133225977783828468 0
 122C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.vcxproj133225977784071281 0
-82C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133230023728091193 0
+82C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133235182441063147 0
 92C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\flatpickr\dist\esm\l10n\vn.js133226681679517737 0
 103C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\lmdb\dependencies\lmdb-data-v1\libraries133225977775836849 1
 96C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\css-tree\lib\syntax\node\Ratio.js133225977783156298 0
@@ -3073,7 +3073,7 @@
 100C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\caniuse-lite\data\features\datauri.js133225977785921803 0
 78C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\detect-libc\bin133225977777343055 1
 89C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\dotenv-expand\package.json133225977775680699 0
-68C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist\02-timer.html133228266577241951 0
+68C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist\02-timer.html133235179962778208 0
 84C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\domutils\package.json133225977778337487 0
 90C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\domutils\lib\feeds.d.ts.map133225977778561653 0
 101C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\caniuse-lite\dist\unpacker\browsers.js133225977782485264 0
@@ -3281,7 +3281,7 @@
 85C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\caniuse-lite\README.md133225977791224153 0
 98C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\css-tree\lib\syntax\node\Comment.js133225977779510434 0
 95C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\css-tree\lib\syntax\node\Hash.js133225977781896431 0
-85C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css133228266576851720 0
+85C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css133235179962544757 0
 93C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\optimizer-htmlnano\lib133225977776999404 1
 106C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\css-tree\lib\syntax\node\DeclarationList.js133225977781049842 0
 59C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\.cache\85133225977811017551 1
@@ -3476,7 +3476,7 @@
 122C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\@jridgewell\trace-mapping\dist\types\sourcemap-segment.d.ts133225977778948459 0
 78C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\chalk\readme.md133225977777712060 0
 88C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\chalk\source\templates.js133225977776686958 0
-84C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist\goit-js-hw-09.59712999.js.map133228266577231977 0
+84C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist\goit-js-hw-09.59712999.js.map133235179962887914 0
 83C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\chalk\source\util.js133225977776999404 0
 114C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-container-queries.js133225977784041411 0
 111C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.mjs133225977778140980 0
@@ -3680,7 +3680,7 @@
 94C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\caniuse-lite\data\regions\TH.js133225977790306339 0
 94C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\caniuse-lite\data\regions\TK.js133225977790326285 0
 106C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\caniuse-lite\data\features\link-icon-svg.js133225977787925216 0
-79C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist\02-timer.f9388f03.js.map133230017988578667 0
+79C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist\02-timer.f9388f03.js.map133235179962877951 0
 94C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\caniuse-lite\data\regions\TM.js133225977790376158 0
 112C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-filter-function.js133225977784240826 0
 94C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\caniuse-lite\data\regions\TN.js133225977790386151 0
@@ -4270,7 +4270,7 @@
 96C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\@swc\helpers\lib\_to_primitive.js133225977782329052 0
 95C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\@swc\helpers\lib\_ts_decorate.js133225977782329052 0
 111C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\runtime-js\src\helpers\get-worker-url.js133225977779327434 0
-75C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist\02-timer.f9388f03.js133230017988558734 0
+75C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist\02-timer.f9388f03.js133235179962838046 0
 92C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\@swc\helpers\lib\_ts_param.js133225977782329052 0
 100C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\workers\test\cpuCount.test.js133225977778988354 0
 91C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\@swc\helpers\lib\_type_of.js133225977782329052 0
@@ -4693,7 +4693,7 @@
 148C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\subfolder1133225977782329052 1
 142C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser\browser.js133225977779227706 0
 139C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser\main.js133225977781783621 0
-71C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist\03-promises.html133228266577461370 0
+71C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist\03-promises.html133235179962778208 0
 138C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-glob\src133225977782485264 1
 146C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-glob\src\test.js133225977782485264 0
 145C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-exclude\main.js133225977781594127 0
@@ -5155,10 +5155,10 @@
 76C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\.bin\svgo.ps1133225977791473214 0
 74C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\.bin\terser133225977791483198 0
 78C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\node_modules\.bin\terser.ps1133225977791483198 0
-84C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133228266577082381 0
-88C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133228266577092369 0
-80C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist\goit-js-hw-09.59712999.js133228266577162162 0
-65C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist\index.html133228266577152184 0
+84C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133235179962544757 0
+88C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133235179962544757 0
+80C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist\goit-js-hw-09.59712999.js133235179962857979 0
+65C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\dist\index.html133235179962388411 0
 82C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\assets\actions-config-step-1.png133225973711183610 0
 82C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\assets\actions-config-step-2.png133225973711339899 0
 73C:\Users\AlexandrG\Documents\GitHub\goit-js-hw-09\assets\how-it-works.png133225973711339899 0
