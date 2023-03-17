@@ -23,8 +23,9 @@ formEl.addEventListener("submit", (evt) => {
         );
         })
     }
-  }, firstDelay.value)
+  formEl.reset();
 
+  }, firstDelay.value)
 })
 
 
